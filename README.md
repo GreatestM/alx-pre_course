@@ -1,1 +1,1 @@
-*This file is mandatory for all alx school projects*
+*This file is mandatory for all alx school projects updated*
